@@ -1,0 +1,804 @@
+{
+  "docs": [
+    {
+      "id": 930555,
+      "name": "Титан",
+      "alternativeName": "The Titan",
+      "enName": "",
+      "type": "movie",
+      "year": 2017,
+      "description": "Американский военный Рик принимает участие в грандиозной космической программе. Лучшие умы планеты пытаются создать сверхлюдей, которые после гибели Земли обеспечат продолжение существования человечества на планете Титан. Однако эксперимент над генами приводит к непредсказуемым последствиям.",
+      "shortDescription": "Пилот ВВС США мутирует в сверхсущество ради будущего человечества. Драматичный сай-фай со звездой «Аватара»",
+      "movieLength": 97,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": 18,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 1,
+      "status": null,
+      "names": [
+        {
+          "name": "Титан",
+          "language": "RU",
+          "type": "Russian title on kinopoisk"
+        },
+        {
+          "name": "The Titan",
+          "language": null,
+          "type": "Original title on kinopoisk"
+        }
+      ],
+      "externalId": {
+        "kpHD": "4c9101079318856b958de35f352269b9"
+      },
+      "logo": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1599028/835a607e-214e-49dd-bea8-bb1ea6342f67/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1599028/835a607e-214e-49dd-bea8-bb1ea6342f67/x1000"
+      },
+      "backdrop": {
+        "url": "https://image.openmoviedb.com/kinopoisk-ott-images/223007/2a000001632ba8eb3ea2933fee8ada21706f/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/223007/2a000001632ba8eb3ea2933fee8ada21706f/x1000"
+      },
+      "rating": {
+        "kp": 5.082,
+        "imdb": 4.8,
+        "filmCritics": 3.9,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 46457,
+        "imdb": 33742,
+        "filmCritics": 29,
+        "russianFilmCritics": 2,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "мелодрама"
+        },
+        {
+          "name": "детектив"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Великобритания"
+        },
+        {
+          "name": "Испания"
+        },
+        {
+          "name": "США"
+        },
+        {
+          "name": "Германия"
+        }
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 1309758,
+      "name": "Титан",
+      "alternativeName": "Titane",
+      "enName": "",
+      "type": "movie",
+      "year": 2020,
+      "description": "После автоаварии, в которую Алексиа попала в детстве, в голове у неё титановая пластина. 15 лет спустя она работает стриптизёршей, а когда беременеет совершенно невероятным образом, это провоцирует у девушки всплеск неконтролируемой агрессии.",
+      "shortDescription": "Танцовщица пускается в бега, пытаясь сохранить страшную тайну. Шокирующий боди-хоррор, победивший в Каннах",
+      "movieLength": 108,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": "r",
+      "ageRating": 18,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 1,
+      "status": null,
+      "names": [
+        {
+          "name": "Титан",
+          "language": "RU",
+          "type": "Russian title on kinopoisk"
+        },
+        {
+          "name": "Titane",
+          "language": null,
+          "type": "Original title on kinopoisk"
+        }
+      ],
+      "externalId": {
+        "kpHD": "4d14b202794d3ddc9098c0afe34f19f8"
+      },
+      "logo": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1629390/b287a5c3-2b22-4bbe-b420-7c9e0cf94962/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1629390/b287a5c3-2b22-4bbe-b420-7c9e0cf94962/x1000"
+      },
+      "backdrop": {
+        "url": "https://image.openmoviedb.com/kinopoisk-ott-images/1534341/2a0000017d0f836f50ee4e97cdbca1005223/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-ott-images/1534341/2a0000017d0f836f50ee4e97cdbca1005223/x1000"
+      },
+      "rating": {
+        "kp": 5.837,
+        "imdb": 6.5,
+        "filmCritics": 7.8,
+        "russianFilmCritics": 81.25,
+        "await": null
+      },
+      "votes": {
+        "kp": 28022,
+        "imdb": 58330,
+        "filmCritics": 255,
+        "russianFilmCritics": 16,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "фантастика"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Бельгия"
+        }
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 4679909,
+      "name": "Титан",
+      "alternativeName": "Titan",
+      "enName": "",
+      "type": "movie",
+      "year": 2021,
+      "description": "Юный Натан по прозвищу Титан — непробиваемый французский мальчишка, мечтающий попасть в местную банду. Для этого ему нужно пройти обряд посвящения — дуэль на пневматических пистолетах.",
+      "shortDescription": "",
+      "movieLength": 18,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 1,
+      "status": null,
+      "names": [
+        {
+          "name": "Титан"
+        },
+        {
+          "name": "Titan"
+        }
+      ],
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt15766600",
+        "tmdb": 879140
+      },
+      "logo": {
+        "url": null,
+        "previewUrl": null
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4486362/8a786327-0718-45c4-950b-fe7cd2febc63/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486362/8a786327-0718-45c4-950b-fe7cd2febc63/x1000"
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 0,
+        "imdb": 6.4,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 70,
+        "imdb": 116,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "короткометражка"
+        },
+        {
+          "name": "драма"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        },
+        {
+          "name": "Бельгия"
+        }
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 862,
+      "name": "Титан: После гибели Земли",
+      "alternativeName": "Titan A.E.",
+      "enName": "",
+      "type": "cartoon",
+      "year": 2000,
+      "description": "В 3028 году Дреджи – агрессивная инопланетная раса уничтожила Землю. Пятнадцать лет спустя – юный Кейл узнает, что он владеет генетически запрограммированной картой на Титан – космический супер–корабль, в котором заключен секрет спасения человечества.\n\nКейлу предстоит полное опасностей путешествие через вселенную в составе команды космического корабля «Валькирия», сражения со злыми Дреджами, и восстановление Титана – последней надежды всего человечества.",
+      "shortDescription": "",
+      "movieLength": 94,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": "pg",
+      "ageRating": 12,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 3,
+      "status": null,
+      "names": [
+        {
+          "name": "Титан: После гибели Земли"
+        },
+        {
+          "name": "Titan A.E."
+        },
+        {
+          "name": "Titan AE",
+          "language": "US",
+          "type": null
+        },
+        {
+          "name": "Titan A. E. - Időszámításunk után",
+          "language": "HU",
+          "type": null
+        },
+        {
+          "name": "Titan",
+          "language": "BR",
+          "type": null
+        }
+      ],
+      "externalId": {
+        "imdb": "tt0120913",
+        "tmdb": 7450,
+        "kpHD": null
+      },
+      "logo": {
+        "url": "https://imagetmdb.com/t/p/original/y7I0Fg5F1VeloTqqGqKLVzjXOvo.png"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1773646/e514ca06-f90e-45b4-8972-4c4798b3914b/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1773646/e514ca06-f90e-45b4-8972-4c4798b3914b/x1000"
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 7.298,
+        "imdb": 6.6,
+        "filmCritics": 5.7,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 18455,
+        "imdb": 64194,
+        "filmCritics": 103,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Великобритания"
+        },
+        {
+          "name": "Япония"
+        }
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 698041,
+      "name": "Титан Максимум",
+      "alternativeName": "Titan Maximum",
+      "enName": "",
+      "type": "animated-series",
+      "year": 2009,
+      "description": "",
+      "shortDescription": "",
+      "movieLength": 0,
+      "isSeries": true,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": 18,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 5,
+      "status": "completed",
+      "names": [
+        {
+          "name": "Титан Максимум"
+        },
+        {
+          "name": "Titan Maximum"
+        }
+      ],
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt1441939",
+        "tmdb": 21554
+      },
+      "logo": {
+        "url": null,
+        "previewUrl": null
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1777765/486818ea-0b2e-4d7a-bd90-aae9af3f0c1d/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1777765/486818ea-0b2e-4d7a-bd90-aae9af3f0c1d/x1000"
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 0,
+        "imdb": 7,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 101,
+        "imdb": 659,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2009,
+          "end": 2009
+        }
+      ]
+    },
+    {
+      "id": 133030,
+      "name": "Титан: История Микеланджело",
+      "alternativeName": "The Titan: Story of Michelangelo",
+      "enName": "",
+      "type": "movie",
+      "year": 1950,
+      "description": "Фильм о жизни и творчестве великого художника Микеланджело Буонарроти.",
+      "shortDescription": "",
+      "movieLength": 70,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 1,
+      "status": null,
+      "names": [
+        {
+          "name": "Титан: История Микеланджело"
+        },
+        {
+          "name": "The Titan: Story of Michelangelo"
+        },
+        {
+          "name": "The Titan",
+          "language": "US",
+          "type": "Short Title"
+        }
+      ],
+      "externalId": {
+        "imdb": "tt0043050",
+        "tmdb": 114498,
+        "kpHD": null
+      },
+      "logo": {
+        "url": null
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1946459/511afabd-00e8-46d8-80ae-63b25b33f351/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1946459/511afabd-00e8-46d8-80ae-63b25b33f351/x1000"
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 5.554,
+        "imdb": 6.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 95,
+        "imdb": 130,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "документальный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Швейцария"
+        },
+        {
+          "name": "Германия (ФРГ)"
+        }
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 837196,
+      "name": "Титан: Жизнь Джона Д. Рокфеллера",
+      "alternativeName": "Titan: The Life of John D. Rockefeller",
+      "enName": "",
+      "type": "movie",
+      "year": 0,
+      "description": "",
+      "shortDescription": "",
+      "movieLength": 0,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 1,
+      "status": null,
+      "names": [
+        {
+          "name": "Титан: Жизнь Джона Д. Рокфеллера",
+          "language": "RU",
+          "type": "Russian title on kinopoisk"
+        },
+        {
+          "name": "Titan: The Life of John D. Rockefeller",
+          "language": null,
+          "type": "Original title on kinopoisk"
+        }
+      ],
+      "externalId": {
+        "kpHD": null
+      },
+      "logo": null,
+      "poster": {
+        "url": null,
+        "previewUrl": null
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 0,
+        "imdb": 0,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [],
+      "countries": [],
+      "releaseYears": []
+    },
+    {
+      "id": 576039,
+      "name": "Сим-Бионик Титан",
+      "alternativeName": "Sym-Bionic Titan",
+      "enName": "",
+      "type": "animated-series",
+      "year": 2010,
+      "description": "Двое инопланетян-беглецов Лэнс, Илана и робот Октус терпят крушение на планете Земля. Теперь им предстоит слиться с этим непонятным миром и надеяться, что завоевавший их родную планету Галалуну генерал Модула тут их не найдёт. Но надеждам не суждено сбыться — теперь не только они, но и всё человечество оказываются в опасности.",
+      "shortDescription": "",
+      "movieLength": 0,
+      "isSeries": true,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": 22,
+      "ratingMpaa": null,
+      "ageRating": 12,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 5,
+      "status": "completed",
+      "names": [
+        {
+          "name": "Сим-Бионик Титан"
+        },
+        {
+          "name": "Sym-Bionic Titan"
+        }
+      ],
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt1709198",
+        "tmdb": 32315
+      },
+      "logo": {
+        "url": "https://image.openmoviedb.com/tmdb-images/original/A2emvdXKUWQDCsHgh8NFQuHKIQH.png",
+        "previewUrl": "https://image.openmoviedb.com/tmdb-images/w500/A2emvdXKUWQDCsHgh8NFQuHKIQH.png"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1600647/067c4783-3fee-4590-adc7-98ca604bf4b4/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1600647/067c4783-3fee-4590-adc7-98ca604bf4b4/x1000"
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 7.687,
+        "imdb": 8.1,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "votes": {
+        "kp": 856,
+        "imdb": 3275,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "мультфильм"
+        },
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "драма"
+        },
+        {
+          "name": "приключения"
+        },
+        {
+          "name": "семейный"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "releaseYears": [
+        {
+          "start": 2010,
+          "end": 2011
+        }
+      ]
+    },
+    {
+      "id": 5120310,
+      "name": "Нападение на Титан",
+      "alternativeName": "Attack on Titan",
+      "enName": "",
+      "type": "movie",
+      "year": 2022,
+      "description": "",
+      "shortDescription": "",
+      "movieLength": 91,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 1,
+      "status": null,
+      "names": [],
+      "externalId": {
+        "kpHD": null,
+        "imdb": "tt22408766",
+        "tmdb": 1033219
+      },
+      "logo": null,
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/4774061/ef035a66-50a9-4aa8-9a6b-6555cac26667/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4774061/ef035a66-50a9-4aa8-9a6b-6555cac26667/x1000"
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 0,
+        "imdb": 2.6,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 110,
+        "imdb": 364,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "releaseYears": []
+    },
+    {
+      "id": 790283,
+      "name": "Рэй Харрихаузен: Титан спецэффектов",
+      "alternativeName": "Ray Harryhausen: Special Effects Titan",
+      "enName": "",
+      "type": "movie",
+      "year": 2011,
+      "description": "",
+      "shortDescription": "",
+      "movieLength": 90,
+      "isSeries": false,
+      "ticketsOnSale": false,
+      "totalSeriesLength": null,
+      "seriesLength": null,
+      "ratingMpaa": null,
+      "ageRating": null,
+      "top10": null,
+      "top250": null,
+      "typeNumber": 1,
+      "status": null,
+      "names": [],
+      "externalId": {
+        "tmdb": 146490,
+        "kpHD": null,
+        "imdb": "tt1839590"
+      },
+      "logo": {
+        "url": "https://imagetmdb.com/t/p/original/xGCJQqglESVca8KLPwanfbf1mcP.png"
+      },
+      "poster": {
+        "url": "https://image.openmoviedb.com/kinopoisk-images/1898899/8c66c284-3d97-46f2-a018-fcf3d2daad51/orig",
+        "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/1898899/8c66c284-3d97-46f2-a018-fcf3d2daad51/x1000"
+      },
+      "backdrop": {
+        "url": null,
+        "previewUrl": null
+      },
+      "rating": {
+        "kp": 0,
+        "imdb": 7.5,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "votes": {
+        "kp": 103,
+        "imdb": 1374,
+        "filmCritics": 0,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "genres": [
+        {
+          "name": "документальный"
+        },
+        {
+          "name": "биография"
+        }
+      ],
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "releaseYears": []
+    }
+  ],
+  "total": 1000,
+  "limit": 10,
+  "page": 1,
+  "pages": 100
+}
